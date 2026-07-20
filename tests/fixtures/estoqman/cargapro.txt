@@ -1,0 +1,26 @@
+<cm|COMANDO>LIMPA</cm|COMANDO>
+<ar|PRODUTOS>
+   <rg|PRODUTO>
+      <cp|CODIGO_BARRAS>000001</cp|CODIGO_BARRAS>
+      <cp|NOME>SHAMPOO AUTOMOTIVO</cp|NOME>
+      <cp|UNIDADE>UN</cp|UNIDADE>
+      <cp|SETOR>1</cp|SETOR>
+      <cp|PRECO_VENDA>2500</cp|PRECO_VENDA>
+      <cp|INATIVO>N</cp|INATIVO>
+   </rg|PRODUTO>
+   <rg|PRODUTO>
+      <cp|CODIGO_BARRAS>000002</cp|CODIGO_BARRAS>
+      <cp|NOME>CERA DE CARNAUBA</cp|NOME>
+      <cp|UNIDADE>UN</cp|UNIDADE>
+      <cp|SETOR>1</cp|SETOR>
+      <cp|PRECO_VENDA>3000</cp|PRECO_VENDA>
+      <cp|INATIVO>N</cp|INATIVO>
+   </rg|PRODUTO>
+   <rg|PRODUTO>
+      <cp|CODIGO_BARRAS>000003</cp|CODIGO_BARRAS>
+      <cp|NOME>PRODUTO INATIVO</cp|NOME>
+      <cp|SETOR>2</cp|SETOR>
+      <cp|PRECO_VENDA>1000</cp|PRECO_VENDA>
+      <cp|INATIVO>S</cp|INATIVO>
+   </rg|PRODUTO>
+</ar|PRODUTOS>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" fill="none">
+  <ellipse cx="200" cy="250" rx="160" ry="12" fill="#000" opacity="0.08"/>
+  <path d="M80 90h220l-25 130H105L80 90z" fill="#fff" opacity="0.15"/>
+  <path d="M95 100h190l-20 105H115L95 100z" fill="#fff" opacity="0.25"/>
+  <rect x="130" y="55" width="90" height="70" rx="6" fill="#D4A574" stroke="#fff" stroke-width="2"/>
+  <text x="175" y="82" text-anchor="middle" fill="#fff" font-size="7" font-weight="bold" font-family="sans-serif">CONTINENTE</text>
+  <text x="175" y="94" text-anchor="middle" fill="#fff" font-size="6" font-family="sans-serif">ATACADO</text>
+  <rect x="235" y="70" width="45" height="55" rx="4" fill="#3B82F6" stroke="#fff" stroke-width="1.5"/>
+  <text x="257" y="95" text-anchor="middle" fill="#fff" font-size="5" font-family="sans-serif">LAVA</text>
+  <text x="257" y="104" text-anchor="middle" fill="#fff" font-size="5" font-family="sans-serif">ROUPAS</text>
+  <rect x="100" y="75" width="40" height="50" rx="3" fill="#F5F5DC" stroke="#fff" stroke-width="1.5"/>
+  <text x="120" y="105" text-anchor="middle" fill="#8B7355" font-size="6" font-weight="bold" font-family="sans-serif">ARROZ</text>
+  <rect x="285" y="80" width="35" height="45" rx="3" fill="#92400E" stroke="#fff" stroke-width="1.5"/>
+  <text x="302" y="108" text-anchor="middle" fill="#fff" font-size="5" font-family="sans-serif">CAFÉ</text>
+  <path d="M60 200c0-60 40-100 90-100h100c50 0 90 40 90 100" stroke="#fff" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <circle cx="130" cy="210" r="18" fill="#374151" stroke="#fff" stroke-width="3"/>
+  <circle cx="270" cy="210" r="18" fill="#374151" stroke="#fff" stroke-width="3"/>
+  <rect x="155" y="175" width="70" height="22" rx="4" fill="#FBBF24" stroke="#fff" stroke-width="1.5"/>
+  <text x="190" y="190" text-anchor="middle" fill="#1F2937" font-size="9" font-weight="bold" font-family="sans-serif">R$ 36,90</text>
+</svg>
